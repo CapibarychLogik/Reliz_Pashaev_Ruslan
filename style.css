@@ -1,1 +1,31 @@
+header{
+background-image:linear-gradient(to right, #36d1dc,#5b86e5);
+color:rgb(218, 246, 246)
+}
 
+.desone:hover {
+    margin: 100px;
+    transform: translateY(10px) translateX(10px) ;
+    transition:1s ease-in ;
+}
+
+.destwo:hover {
+    margin: 100px;
+    transform: translateY(10px) translateX(10px) ;
+    transition:1s ease-in ;
+}
+
+.desthree:hover {
+    margin: 100px;
+    transform: translateY(10px) translateX(10px) ;
+    transition:1s ease-in ;
+}
+
+.desfour img:hover {
+    opacity:1;
+    border: 6px solid navy;
+    width: 170px;
+    height: 220px;
+    padding:5px;
+    transition: 0.5s ease-out;
+}
