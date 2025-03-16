@@ -7,18 +7,24 @@ color:rgb(218, 246, 246)
     margin: 100px;
     transform: translateY(10px) translateX(10px) ;
     transition:1s ease-in ;
+    left:30%;
+   width: 60%;
+  display: block;
 }
+
 
 .destwo:hover {
     margin: 100px;
     transform: translateY(10px) translateX(10px) ;
     transition:1s ease-in ;
+left:30%
 }
 
 .desthree:hover {
     margin: 100px;
     transform: translateY(10px) translateX(10px) ;
     transition:1s ease-in ;
+    left:30%
 }
 
 .desfour img:hover {
@@ -28,4 +34,5 @@ color:rgb(218, 246, 246)
     height: 220px;
     padding:5px;
     transition: 0.5s ease-out;
+    left:30%
 }
